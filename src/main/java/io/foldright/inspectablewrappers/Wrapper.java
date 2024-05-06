@@ -4,7 +4,7 @@ import edu.umd.cs.findbugs.annotations.NonNull;
 
 
 /**
- * This {@code Wrapper} interface is used to be implemented by wrapper classes,
+ * This {@code Wrapper} interface is used to be implemented by biz wrapper instances,
  * make an <strong>inspectable wrapper chain</strong>(linked list).
  * <p>
  * <strong>Note about wrapper chain:</strong>
